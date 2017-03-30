@@ -22,5 +22,4 @@
     <activity
         android:name=".Main3Activity"
         android:documentLaunchMode="intoExisting"
-        android:excludeFromRecents="true"
-        android:maxRecents="3"/>
+        android:excludeFromRecents="true"/>
