@@ -1,4 +1,4 @@
-# Android在近期任务列表显示同一个APP的多个Activity
+# 在近期任务列表显示单个APP的多个Activity
 
 有两种方式可以实现效果
 
